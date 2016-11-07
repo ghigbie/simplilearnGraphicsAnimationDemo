@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         kitten.animate().rotation(720).setDuration(1500).start();
 
+
     }
 
     public void onClickTrans(View view){
